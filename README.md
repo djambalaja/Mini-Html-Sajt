@@ -1,2 +1,1 @@
-# Assignment - Mini HTML sajt
-# Naim Kavazić
+# HTML-CSS-Fundamentals
